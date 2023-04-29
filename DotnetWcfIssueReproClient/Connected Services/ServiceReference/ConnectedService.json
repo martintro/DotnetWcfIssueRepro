@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "net.tcp://localhost:8740/Design_Time_Addresses/DotnetWcfIssueReproService/Service/mex"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
